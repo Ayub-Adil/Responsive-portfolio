@@ -68,11 +68,12 @@ nav ul li a:hover {
 }
 
 .leftsection {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .rightsection img {
     width: 100%;
+    max-width: 300px;
 }
 
 .purple {
