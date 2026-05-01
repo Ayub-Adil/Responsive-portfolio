@@ -44,7 +44,7 @@ Hi, I'm **Ayub** 👋
 
 ## 📸 Preview
 
-![Portfolio Preview](ss.png)
+![Portfolio Preview](bg.png)
 
 ---
 
